@@ -1,0 +1,5 @@
+{
+  "name": "Marbo Control",
+  "description": "An interactive 2D system for real-time monitoring of personnel location and presence at muster stations in offshore and onshore environments. It features a dynamic map, tag management, and detailed reporting.",
+  "requestFramePermissions": []
+}
